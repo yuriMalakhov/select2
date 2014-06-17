@@ -1,2 +1,6 @@
 .idea
+.out
+.doc
+.node_modules
+.bower_components
 
